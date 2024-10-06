@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HBAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e05cb3d0a55716fa614f623114cc8b23478c7ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34f8e25d950f91e54f6e96dfffd82a6858622716")]
 [assembly: System.Reflection.AssemblyProductAttribute("HBAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HBAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

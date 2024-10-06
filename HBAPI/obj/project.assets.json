@@ -3205,11 +3205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kellyallen/Desktop/c#repos/HBAPI/HBAPI/HBAPI.csproj",
+      "projectUniqueName": "/Users/kellyallen/Desktop/c#repos/HBAPINew/HBAPI/HBAPI.csproj",
       "projectName": "HBAPI",
-      "projectPath": "/Users/kellyallen/Desktop/c#repos/HBAPI/HBAPI/HBAPI.csproj",
+      "projectPath": "/Users/kellyallen/Desktop/c#repos/HBAPINew/HBAPI/HBAPI.csproj",
       "packagesPath": "/Users/kellyallen/.nuget/packages/",
-      "outputPath": "/Users/kellyallen/Desktop/c#repos/HBAPI/HBAPI/obj/",
+      "outputPath": "/Users/kellyallen/Desktop/c#repos/HBAPINew/HBAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kellyallen/.nuget/NuGet/NuGet.Config"
